@@ -1,0 +1,50 @@
+body
+{
+	background-image: url("https://tse2.mm.bing.net/th?id=OIP.pCnUnHDjhM6PjdsmRVi3XQHaEK&pid=Api&P=0&h=180");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.cal
+{
+	height: 500px;
+	width: 450px;
+	background-color: #424769;
+	margin-top: 100px;
+	margin-left: 525px;
+	border-radius: 30px;
+	box-shadow: 0 0 24px 0 #EEF5FF;
+}
+.ans
+{
+	width: 400px;
+	height: 95px;
+	margin: 20px;
+	border-radius: 20px;
+	background-color: #9EB8D9;
+	text-align: right;
+	font-size: 40px;
+}
+input
+{
+	width: 90px;
+	height: 55px;
+	border-radius: 20px;
+	margin: 3px;
+	background-color: #9EB8D9;
+	font-size: 25px;
+	box-shadow: 1px 1px #EEF5FF;
+	margin-bottom: 10px;
+}
+.div
+{
+    margin-left: 25px;
+}
+.eql
+{
+	width: 190px;
+}
+#sym
+{
+	color: #B2533E;
+	text-shadow: 2px 2px #424769;
+}
